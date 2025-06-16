@@ -39,3 +39,5 @@ JavaScript (ES6+): For handling user interactions, fetching data from the API, p
 OpenWeatherMap API: A third-party public API used as the data source for weather information.
 Browser Geolocation API: Utilized to obtain the user's latitude and longitude for location-based weather forecasts.
 This project serves as a practical demonstration of integrating external APIs, handling asynchronous operations, and implementing responsive web design principles to create a functional and engaging user experience.
+
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/411f62e7-f22a-44d7-b9ad-681694828b4c)
